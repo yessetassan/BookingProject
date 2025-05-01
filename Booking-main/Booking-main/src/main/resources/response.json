@@ -1,0 +1,9 @@
+{
+  "fuel": "petrol",
+  "year": 2022,
+  "brand": "Toyota",
+  "color": "white",
+  "model": "Camry",
+  "seats": 5,
+  "transmission": "automatic"
+}

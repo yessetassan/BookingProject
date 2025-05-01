@@ -1,0 +1,3 @@
+INSERT INTO t_role (name) VALUES
+                              ('ROLE_ADMIN'),
+                              ('ROLE_USER');

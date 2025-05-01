@@ -1,0 +1,137 @@
+{
+    "all-sneakers": "Все кроссовки",
+    "the-best-sneakers-store": "Магазин лучших кроссовок",
+    "tenge": "тг",
+    "book-marks": "Закладки",
+    "profile": "Профиль",
+    "by-name": "По названию",
+    "search": "Поиск",
+
+    "header_add_products": "Добавить товары",
+    "header_favorites": "Избранное",
+    "header_my_items": "Мои товары",
+    "header_my_payment_cards": "Мои платежные карты",
+    "header_logout": "Выйти",
+    "header_sign_up": "Регистрация",
+    "header_login": "Войти",
+
+
+
+    "search_search_items": "Поиск товара",
+    "search_find": "Найти",
+    "search_my_city" : "Мой город",
+    "search_almaty": "Алматы",
+
+
+
+    "card_detail_you": "Вы",
+    "card_detail_edit_button": "редактировать",
+    "card_detail_delete_button": "удалить",
+    "card_detail_reviews": "отзывы",
+    "card_detail_tg": "тг",
+    "card_detail_booking_now": "Забронировать сейчас",
+    "card_detail_owner": "Владелец",
+    "card_detail_characteristics": "Характеристики",
+    "card_detail_description": "Описание",
+    "card_detail_product_reviews": "Отзывы о товаре",
+    "card_detail_input_placeholder": "Поделитесь своим мнением об этом товаре",
+    "card_detail_post_review": "Оставить отзыв",
+    "card_detail_all_reviews": "Все отзывы",
+    "card_detail_positive": "Положительные",
+    "card_detail_negative": "Отрицательные",
+    "card_detail_no_reviews_found": "Отзывы не найдены",
+    "card_detail_product_description": "Описание товара",
+    "card_detail_owner_contact": "Связаться с владельцем",
+
+
+    "booking_now_complete_your_booking": "Завершите бронирование",
+    "booking_now_secure_booking_process": "Безопасный процесс бронирования",
+    "booking_now_history": "История бронирований",
+    "booking_now_select_booking_dates": "Выберите даты бронирования",
+    "booking_now_select_date_range": "Выберите диапазон дат",
+    "booking_now_days": "дней",
+    "booking_now_payment_method": "Способ оплаты",
+    "booking_now_booking_summary":"Сводка бронирования",
+    "booking_now_daily_rate": "Дневная ставка",
+    "booking_now_booking_period": "Период бронирования",
+    "booking_now_total_amount": "Итоговая сумма",
+    "booking_": "I agree to the Terms of Service and rental agreement",
+    "booking_now_confirm_booking": "Подтвердить бронирование",
+
+
+    "booking_history_your_booking_history": "Ваша история бронирований",
+    "booking_history_shablon": "Просматривайте и управляйте прошлыми и предстоящими арендами",
+    "booking_history_back_button": "Назад",
+    "booking_history_booking": "Бронирование",
+    "booking_history_view_details": "Посмотреть детали",
+    "booking_history_details": "Детали бронирования",
+    "booking_history_item_information": "Информация о товаре",
+    "booking_history_period": "Период бронирования",
+    "booking_history_owner_information": "Информация о владельце",
+    "booking_history_booking_status": "Статус бронирования",
+    "booking_history_close_button": "Закрыть",
+    "booking_history_booking_confirmed": "Бронирование подтверждено",
+    "booking_history_shablon_success": "Ваша аренда была успешно забронирована",
+    "booking_history_view_booking_history": "Просмотреть историю бронирований",
+    "booking_history_pagination_previous": "Предыдущая",
+    "booking_history_pagination_next": "Следующая",
+
+
+    "favorite_your_favorites": "Ваши избранные",
+    "favorite_shablon": "Все ваши любимые товары в одном месте",
+    "favorite_remove_from": "Удалить из избранного",
+    "favorite_no_favorite": "Пока нет избранных товаров",
+    "favorite_not_shablon": "Товары, которые вы ❤️, появятся здесь. Начните поиск!",
+    "favorite_browse_items": "Просмотреть товары",
+
+
+
+    "add_item_shablon": "Добавить товар в",
+    "add_item_product_name": "Название товара",
+    "add_item_price_per_day": "Цена за день",
+    "add_item_description": "Описание",
+    "add_item_location": "Местоположение",
+    "add_item_select_district": "Выберите район",
+    "add_item_select_micro_district": "Выберите микрорайон",
+    "add_item_street_address": "Адрес улицы",
+    "add_item_example_street": "Пример: улица Главная 123, здание 5, квартира 12",
+    "add_item_verification_document": "ДОКУМЕНТ ПОДТВЕРЖДЕНИЯ",
+    "add_item_upload_document": "Загрузить подтверждающий документ",
+    "add_item_example_document": "Загрузите файл в формате PDF, JPG или PNG (макс. 5 МБ)",
+    "add_item_characteristics": "Характеристики",
+    "add_item_product_images": "Изображения товара",
+    "add_item_add_image": "Добавить фото",
+    "add_item_images": "изображения",
+    "add_item_save_product": "Сохранить товар",
+    "add_item_cancel": "Отмена",
+
+
+
+    "my_items_approved": "Одобрено",
+    "my_items_rejected": "Отклонено",
+    "my_items_checklist": "Чеклист",
+
+
+    "list_my_items_inventory_checklist": "Контрольный список инвентаря",
+    "list_my_items_shablon": "Проверьте и одобрите товары в вашем инвентаре",
+    "list_my_items_available_items": "Доступные товары",
+    "list_my_items_items": "товары",
+    "list_my_items_no": "Товары не найдены",
+    "list_my_items_no_shablon": "Попробуйте изменить фильтры или выберите другую категорию",
+
+
+    "login": "Вход",
+    "login_shablon": "С возвращением! Пожалуйста, введите свои данные",
+    "login_email": "Электронная почта",
+    "login_password": "Пароль",
+    "login_sign_in": "Войти",
+
+    "signup": "Создать аккаунт",
+    "signup_shablon": "Присоединяйтесь к нашему сообществу",
+    "signup_firstname": "Имя",
+    "signup_lastname": "Фамилия",
+    "signup_signup": "Зарегистрироваться",
+    "signup_account": "Уже есть аккаунт?"
+
+
+}

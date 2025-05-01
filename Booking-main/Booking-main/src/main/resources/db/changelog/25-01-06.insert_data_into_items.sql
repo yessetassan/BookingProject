@@ -1,0 +1,27 @@
+-- 🏎️ Inserting sedan items into t_item with different years
+INSERT INTO t_item (category_id, owner_id, name, description, price_per_day, available, attributes, created_at, is_deleted_by_admin, is_approved, is_rejected, status) VALUES
+                                                                                                        (4, 9, 'Toyota Camry 2022', 'Comfortable sedan for city and highway.', 25000.00, TRUE,
+                                                                                                         '{"brand": "Toyota", "model": "Camry", "year": 2022, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "white"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 10, 'Honda Accord 2021', 'Reliable and fuel-efficient sedan.', 26000.00, TRUE,
+                                                                                                         '{"brand": "Honda", "model": "Accord", "year": 2021, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "grey"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 11, 'Nissan Altima 2020', 'Spacious sedan with advanced safety features.', 24500.00, TRUE,
+                                                                                                         '{"brand": "Nissan", "model": "Altima", "year": 2020, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "white"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 12, 'Mazda 6 2019', 'Stylish and sporty sedan.', 27000.00, TRUE,
+                                                                                                         '{"brand": "Mazda", "model": "6", "year": 2019, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "red"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 9, 'Hyundai Sonata 2023', 'Modern design with smart features.', 25500.00, TRUE,
+                                                                                                         '{"brand": "Hyundai", "model": "Sonata", "year": 2023, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "black"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 10, 'Kia K5 2022', 'Elegant and powerful sedan.', 25800.00, TRUE,
+                                                                                                         '{"brand": "Kia", "model": "K5", "year": 2022, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "white"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 11, 'Subaru Legacy 2021', 'All-wheel drive sedan for all weather conditions.', 26500.00, TRUE,
+                                                                                                         '{"brand": "Subaru", "model": "Legacy", "year": 2021, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "silver"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 12, 'Volkswagen Passat 2020', 'German engineering for a smooth ride.', 27500.00, TRUE,
+                                                                                                         '{"brand": "Volkswagen", "model": "Passat", "year": 2020, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "black"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 9, 'Chevrolet Malibu 2018', 'American classic with a modern touch.', 24800.00, TRUE,
+                                                                                                         '{"brand": "Chevrolet", "model": "Malibu", "year": 2018, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "grey"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 10, 'Ford Fusion 2023', 'Balanced performance and technology.', 26000.00, TRUE,
+                                                                                                         '{"brand": "Ford", "model": "Fusion", "year": 2023, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "blue"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE'),
+                                                                                                        (4, 11, 'BMW 3 Series 2019', 'Luxury sports sedan with advanced technology.', 32000.00, TRUE,
+                                                                                                         '{"brand": "BMW", "model": "3 Series", "year": 2019, "fuel type": "petrol", "transmission": "automatic", "seats": 5, "color": "black"}', CURRENT_TIMESTAMP, false, true, false, 'ACTIVE');
+
+
+

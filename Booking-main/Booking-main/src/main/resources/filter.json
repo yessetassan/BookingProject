@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "body": [
+    {
+      "name": "Год выпуска",
+      "type": "range",
+      "options": "{\"max\": 2024, \"min\": 2000}"
+    },
+    {
+      "name": "Объем двигателя (л)",
+      "type": "range",
+      "options": "{\"max\": 6.0, \"min\": 1.0, \"step\": 0.1}"
+    },
+    {
+      "name": "Коробка передач",
+      "type": "multi-select",
+      "options": "{\"values\": [\"механика\", \"автомат\", \"робот\", \"вариатор\"]}"
+    },
+    {
+      "name": "Пробег (тыс. км)",
+      "type": "range",
+      "options": "{\"max\": 500, \"min\": 0}"
+    },
+    {
+      "name": "fuel",
+      "type": "multi-select",
+      "options": "{\"values\": [\"бензин\", \"дизель\", \"гибрид\", \"электро\"]}"
+    },
+    {
+      "name": "color",
+      "type": "multi-select",
+      "options": "{\"values\": [\"черный\", \"белый\", \"серый\", \"красный\", \"синий\", \"зеленый\"]}"
+    },
+    {
+      "name": "seats",
+      "type": "range",
+      "options": "{\"max\": 7, \"min\": 2}"
+    }
+  ],
+  "status": null
+}

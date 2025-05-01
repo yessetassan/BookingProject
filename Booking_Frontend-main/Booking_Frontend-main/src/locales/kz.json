@@ -1,0 +1,146 @@
+{
+    "all-sneakers": "Барлық кроссовкалар",
+    "the-best-sneakers-store": "Ең жақсы кроссовкалар дүкені",
+    "tenge": "тг",
+    "book-marks": "Бетбелгілер",
+    "profile": "Профиль",
+    "by-name": "Аты бойынша",
+    "search": "Іздеу",
+
+
+    "header_add_products": "Өнімдерді қосу",
+    "header_favorites": "Таңдаулылар",
+    "header_my_items": "Менің заттарым",
+    "header_my_payment_cards": "Менің төлем карталарым",
+    "header_logout": "Шығу",
+    "header_sign_up": "Тіркелу",
+    "header_login": "Кіру",
+
+
+
+    "search_search_items": "Тауар іздеу",
+    "search_find": "Табу",
+    "search_my_city": "Менің қалам",
+    "search_almaty": "Алматы",
+
+
+    "card_detail_you": "Сіз",
+    "card_detail_edit_button": "өңдеу",
+    "card_detail_delete_button": "жою",
+    "card_detail_reviews": "пікірлер",
+    "card_detail_tg": "тг",
+    "card_detail_booking_now": "Қазір брондау",
+    "card_detail_owner": "Иесі",
+    "card_detail_characteristics": "Сипаттамалар",
+    "card_detail_description": "Сипаттама",
+    "card_detail_product_reviews": "Өнімге пікірлер",
+    "card_detail_input_placeholder": "Осы өнім туралы тәжірибеңізбен бөлісіңіз",
+    "card_detail_post_review": "Пікір қалдыру",
+    "card_detail_all_reviews": "Барлық пікірлер",
+    "card_detail_positive": "Оң пікірлер",
+    "card_detail_negative": "Теріс пікірлер",
+    "card_detail_no_reviews_found": "Пікірлер табылмады",
+    "card_detail_product_description": "Өнім сипаттамасы",
+    "card_detail_owner_contact": "Иесімен байланысу",
+
+
+
+    "booking_now_complete_your_booking": "Брондауды аяқтаңыз",
+    "booking_now_secure_booking_process": "Қауіпсіз брондау процесі",
+    "booking_now_history": "Брондау тарихы",
+    "booking_now_select_booking_dates": "Брондау күндерін таңдаңыз",
+    "booking_now_select_date_range": "Күндер аясын таңдаңыз",
+    "booking_now_days": "күн",
+    "booking_now_payment_method": "Төлем әдісі",
+    "booking_now_booking_summary":"Брондау туралы мәлімет",
+    "booking_now_daily_rate": "Күндік баға",
+    "booking_now_booking_period": "Брондау мерзімі",
+    "booking_now_total_amount": "Жалпы сома",
+    "booking_": "I agree to the Terms of Service and rental agreement",
+    "booking_now_confirm_booking": "Брондауды растау",
+
+
+    "booking_history_your_booking_history": "Сіздің брондау тарихыңыз",
+    "booking_history_shablon": "Өткен және алдағы жалға алуларыңызды қараңыз және басқарыңыз",
+    "booking_history_back_button": "Артқа",
+    "booking_history_booking": "Брондау",
+    "booking_history_view_details": "Мәліметтерді қарау",
+    "booking_history_details": "Брондау мәліметтері",
+    "booking_history_item_information": "Өнім туралы ақпарат",
+    "booking_history_period": "Брондау мерзімі",
+    "booking_history_owner_information": "Иесі туралы ақпарат",
+    "booking_history_booking_status": "Брондау статусы",
+    "booking_history_close_button": "Жабу",
+    "booking_history_booking_confirmed": "Брондау расталды",
+    "booking_history_shablon_success": "Сіз жалға алу сәтті түрде рәсімделді",
+    "booking_history_view_booking_history": "Брондау тарихын қарау",
+    "booking_history_pagination_previous": "Алдыңғы",
+    "booking_history_pagination_next": "Келесі",
+
+
+
+    "favorite_your_favorites": "Сүйікті заттарыңыз",
+    "favorite_shablon": "Барлық сүйікті заттарыңыз бір жерде",
+    "favorite_remove_from": "Таңдаулылардан алып тастау",
+    "favorite_no_favorite": "Әзірге сүйікті заттар жоқ",
+    "favorite_not_shablon": "Сіз ❤️ белгілеген заттар осында пайда болады. Іздеуді бастаңыз!",
+    "favorite_browse_items": "Заттарды шолу",
+
+
+
+    "add_item_shablon": "өнім қосу",
+    "add_item_product_name": "Өнім атауы",
+    "add_item_price_per_day": "Күніне баға",
+    "add_item_description": "Сипаттама",
+    "add_item_location": "Орналасуы",
+    "add_item_select_district": "Ауданды таңдаңыз",
+    "add_item_select_micro_district": "Микроауданды таңдаңыз",
+    "add_item_street_address": "Көше мекенжайы",
+    "add_item_example_street": "Мысалы: Басты көше 123, 5-ғимарат, 12-пәтер",
+    "add_item_verification_document": "РАСТАУ ҚҰЖАТЫ",
+    "add_item_upload_document": "Растайтын құжатты жүктеу",
+    "add_item_example_document": "PDF, JPG немесе PNG файл жүктеңіз (макс. 5МБ)",
+    "add_item_characteristics": "Сипаттамалары",
+    "add_item_product_images": "Өнім суреттері",
+    "add_item_add_image": "Сурет қосу",
+    "add_item_images": "суреттер",
+    "add_item_save_product": "Өнімді сақтау",
+    "add_item_cancel": "Бас тарту",
+
+
+    "my_items_approved": "Қабылданды",
+    "my_items_rejected": "Қабылданбады",
+    "my_items_checklist": "Тексеру парағы",
+
+
+    "list_my_items_inventory_checklist": "Қойма тізімін тексеру",
+    "list_my_items_shablon": "Қоймаңыздағы заттарды тексеріп, бекітіңіз",
+    "list_my_items_available_items": "Қолжетімді заттар",
+    "list_my_items_items": "заттар",
+    "list_my_items_no": "Заттар табылмады",
+    "list_my_items_no_shablon": "Сүзгілерді өзгертіп көріңіз немесе басқа санатты таңдаңыз",
+
+    "login": "Кіру",
+    "login_shablon": "Қош келдіңіз! Мәліметтеріңізді енгізіңіз",
+    "login_email": "Электрондық пошта",
+    "login_password": "Құпия сөз",
+    "login_sign_in": "Кіру",
+
+    "signup": "Аккаунт ашу",
+    "signup_shablon": "Біздің қауымдастыққа қосылыңыз",
+    "signup_firstname": "Атыңыз",
+    "signup_lastname": "Тегіңіз",
+    "signup_signup": "Тіркелу",
+    "signup_account": "Аккаунтыңыз бар ма?"
+
+
+
+
+    
+
+      
+
+
+
+
+}

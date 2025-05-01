@@ -1,0 +1,31 @@
+{
+  "fuel": "petrol",
+  "year": 2022,
+  "brand": "Toyota",
+  "color": "black",
+  "model": "Camry",
+  "seats": 5,
+  "multimedia": [
+    "Bluetooth",
+    "CarPlay",
+    "Android Auto"
+  ],
+  "transmission": "automatic",
+  "safety_features": [
+    "ABS",
+    "ESP",
+    "airbags"
+  ],
+  "air_conditioning": true,
+  "mileage_range_km": [
+    50000,
+    100000
+  ],
+  "trunk_capacity_l": 480,
+  "engine_capacity_l": 2.5,
+  "rental_conditions": {
+    "deposit": 100000,
+    "min_driver_age": 21,
+    "required_experience_years": 2
+  }
+}
