@@ -1,0 +1,40 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: yesset.assan@gmail.com
+    password: vxfkkuvitbxhjmhg
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+          connectiontimeout: 5000
+          timeout: 5000
+          writetimeout: 5000
+  security:
+    user:
+      name: ${ADMIN_USERNAME:admin}
+      password: ${ADMIN_PASSWORD:admin}
+  application:
+    name: Booking
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://dpg-d0cfjap5pdvs73dl9o80-a.oregon-postgres.render.com:5432/booking_sdu_db}
+    username: ${SPRING_DATASOURCE_USERNAME:booking_sdu_db_user}
+    password: ${SPRING_DATASOURCE_PASSWORD:qFH68GchWePGA6vwRHu4IPdQK1RdhfiY}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+  liquibase:
+    change-log: classpath:/db/changelog/main-data.xml
+
+server:
+  port: 8080
+
+token:
+  signing:
+    key: ${JWT_SECRET:53A73E5F1C4E0A2D3B5F2D784E6A1B423D6F247D1F6E5C3A596D635A75327855}

@@ -1,0 +1,7 @@
+{
+  "fileUrl": "http://example.com/file.png",
+  "fileType": "image/png",
+  "status": "active",
+  "reasonText": "Item is out of stock",
+  "isActive": true
+}

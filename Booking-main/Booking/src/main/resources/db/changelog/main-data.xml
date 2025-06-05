@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+                            http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+    <include file="/db/changelog/25-01-01.create_all_entity.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-02.insert_data_into_category.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-03.inset_data_into_role.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-04.insert_data_into_microdistrict.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-05.inset_data_into_admin.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-06.insert_data_into_items.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-07.insert_data_into_location.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-08.insert_data_into_filters.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-01-09.insert_data_subcategory_into_filters.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-03-11.insert_data_into_files.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-03-17.insert_data_into_files.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-04-14.insert_data_into_category_admin.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25-04-28.insert_data_into_verifications.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25_04_30.insert_data_into_user_history.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25_05_06.insert_data_translate_category.sql" relativeToChangelogFile="false"/>
+    <include file="/db/changelog/25_05_06.insert_data_translate_filter.sql" relativeToChangelogFile="false"/>
+</databaseChangeLog>
